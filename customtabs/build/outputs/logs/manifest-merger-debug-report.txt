@@ -1,0 +1,34 @@
+-- Merging decision tree log ---
+provider#android.support.customtabs.browseractions.BrowserServiceFileProvider
+INJECTED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:20:9-28:20
+	android:grantUriPermissions
+		ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:24:13-47
+	android:authorities
+		INJECTED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml
+		ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:22:13-64
+	android:exported
+		ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:21:13-96
+manifest
+ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:16:1-30:12
+INJECTED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:16:1-30:12
+INJECTED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:16:1-30:12
+	package
+		ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:17:11-47
+		INJECTED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml
+		INJECTED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:18:5-43
+	android:minSdkVersion
+		ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:18:15-41
+application
+ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:19:5-29:19
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:25:13-27:65
+	android:resource
+		ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:27:17-62
+	android:name
+		ADDED from /home/gotoh-y/develop/CustomTabsKotlin/customtabs/AndroidManifest.xml:26:17-67

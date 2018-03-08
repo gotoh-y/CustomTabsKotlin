@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/gotoh-y/develop/CustomTabsKotlin/customtabs/src/main/assets"/><source path="/home/gotoh-y/develop/CustomTabsKotlin/customtabs/assets"/><source path="/home/gotoh-y/develop/CustomTabsKotlin/customtabs/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/gotoh-y/develop/CustomTabsKotlin/customtabs/src/debug/assets"/></dataSet></merger>
